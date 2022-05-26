@@ -5,6 +5,6 @@
 ### Build with 
 - HTML
 - CSS
-- JS
+- JavaScript
 
 [Live](https://artanmerko.github.io/weather-app/)
